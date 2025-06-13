@@ -15,8 +15,7 @@ A sleek and intuitive Pomodoro Timer built with HTML, CSS, and JavaScript to hel
 ## Demo
 
 You can try the live demo here:
-[Live Demo](https://your-username.github.io/pomodoro-timer)
-(Replace the link with your GitHub Pages URL after deploying)
+[Live Demo]([https://your-username.github.io/pomodoro-timer](https://grimarks.github.io/Pomodoro/))
 
 ## Installation
 
