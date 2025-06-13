@@ -15,14 +15,14 @@ A sleek and intuitive Pomodoro Timer built with HTML, CSS, and JavaScript to hel
 ## Demo
 
 You can try the live demo here:
-[Live Demo]([https://your-username.github.io/pomodoro-timer](https://grimarks.github.io/Pomodoro/))
+[Live Demo](https://grimarks.github.io/Pomodoro/))
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git](https://github.com/Grimarks/Pomodoro.git
+   git clone https://github.com/Grimarks/Pomodoro.git
    ```
 
 2. Navigate to the project directory:
